@@ -2,7 +2,7 @@
 layout: page
 title: Look at my histroy
 subtitle: Graduate Students of Humans and Vehicle Automation Laboratory(Present), (HuVA)
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/simul.jpg
 ---
 
 <br/>
