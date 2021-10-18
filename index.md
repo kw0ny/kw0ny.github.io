@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Look at my histroy
+title: Look at my history
 subtitle: Graduate Students of Humans and Vehicle Automation Laboratory(Present), (HuVA)
 cover-img: /assets/img/simul.jpg
 ---
