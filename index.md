@@ -13,6 +13,8 @@ cover-img: /assets/img/simul.jpg
 
 He has electronics background, Human factor and Automotive Engineering. 
 
+TBD
+
 
 <!-- Reference -->
 <!-- He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations. -->
