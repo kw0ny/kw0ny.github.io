@@ -17,12 +17,12 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   Like it : "Like-it"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  GitHub: "https://github.com/kw0ny"
+
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/simul.jpg"
+avatar: "/assets/img/youngdong.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
@@ -37,9 +37,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
+  email: "ydkwon5594@kookmin.ac.kr"
+  facebook: youngdong.kwon.korea
+  github: kw0ny
   linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
@@ -50,19 +50,16 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: 01020859398
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
 
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
 # --- General options --- #
 # Select which social network share links to show in posts
 share-links-active:
-#  twitter: true
+#  twitter: fale
   facebook: true
   linkedin: true
 #  vk: false
