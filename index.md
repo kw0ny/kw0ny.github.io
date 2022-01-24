@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Look at my history
-subtitle: Graduate Students of Humans and Vehicle Automation Laboratory(Present), (HuVA)
+subtitle: Graduate Students of Humans and Vehicle Automation Laboratory, (HuVA)
 cover-img: /assets/img/alaway_enjoy.png
 ---
 
@@ -9,11 +9,11 @@ cover-img: /assets/img/alaway_enjoy.png
 
 ## About me
 
-**Youngdong kwon** is the **master's course** of [HuVA](https://huva.kookmin.ac.kr/) (Humans and Vehicle Automation Laboratory). He researchs Human factor and Autonomous Vehicles.
+- He is currently Software verification engineer, and working Vehicle Controller Simulink Model static verification.
+- He has electronics background, Human factor and Automotive Engineering. 
+- **Youngdong Kwon** is the **master's course** of [HuVA](https://huva.kookmin.ac.kr/) (Humans and Vehicle Automation Laboratory). He researchs Human factor and Autonomous Vehicles.
+- He holds a bachelor's degree in Electronic engineering.
 
-He has electronics background, Human factor and Automotive Engineering. 
-
-TBD
 
 
 <!-- Reference -->
@@ -27,5 +27,5 @@ TBD
 
 ```
 Affiliation: 
-Email: ydkwon5594[at]kookmin.ac.kr or ydkwon5594[at]gmail.com
+Email: ydkwon5594[at]gmail.com or ydkwon5594[at]kookmin.ac.kr
 ```
