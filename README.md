@@ -12,8 +12,6 @@ Thank you for Seokho-Son
 ## Guidance
 https://www.youtube.com/watch?v=UgPZXxL2jSw
 
-![Simple Guide](assets/img/simple-guide.gif)
-
 
 ## Acknowledgement
 
