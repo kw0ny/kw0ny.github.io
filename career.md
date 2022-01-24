@@ -13,11 +13,11 @@ title: My Career
 #### master Student, 2020 to Present
 
 * Project: AI 및 커넥티비티 기술 기반 미래모빌리티 위한 운전자 특성 및 감정 고려한 지능형 주행 모드 개발(현대자동차 남양연구소 2021.03-2021.11)
-  * Role: project management, design Simulation-scenarios structure, Driver emotion and state definition 
+  * Role: Project management, design Simulation-scenarios structure, Driver emotion and state definition 
 * Project: 장기주행 운전자의 안전운전을 위한 차량ICT 융합 첨단안전운전 시스템 및 서비스 개발(산업통상자원부, 2020.03-2021.12), 
-  * Role: project management, Long Distance Driver dangerous-state definition
+  * Role: Project management, Long Distance Driver dangerous-state definition
 * Project:자동차전용도로/도심로 자율주행 시스템 개발 및 성능평가(산업통상자원부, 2020.03-2021.12)
-  * Role: project management, Use-Case structure, Simulation-scenarios structure, Model structure, Statistical analysis
+  * Role: Project management, Use-Case structure, Simulation-scenarios structure, Model structure, Statistical analysis
 * Project: AI 및 커넥티비티 기술 기반 운전자 특성 및 미래 모빌리티 주행환경 반영된 지능형 주행모드 개발(현대자동차 남양연구소, 2020.03-2020.11)
   * Role: Statistical analysis, Data preprocessing
 * Project: AI 및 커넥티비티 기술 기반 운전자 특성 및 미래 모빌리티 주행환경 반영된 지능형 주행모드 개발(현대자동차 남양연구소, 2020.03-2020.11)
