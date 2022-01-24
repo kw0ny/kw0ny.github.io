@@ -20,8 +20,14 @@ title: My Career
   * Role: project management, Use-Case structure, Simulation-scenarios structure, Model structure, Statistical analysis
 * Project: AI 및 커넥티비티 기술 기반 운전자 특성 및 미래 모빌리티 주행환경 반영된 지능형 주행모드 개발(현대자동차 남양연구소, 2020.03-2020.11)
   * Role: Statistical analysis, Data preprocessing
+* Project: AI 및 커넥티비티 기술 기반 운전자 특성 및 미래 모빌리티 주행환경 반영된 지능형 주행모드 개발(현대자동차 남양연구소, 2020.03-2020.11)
+  * Role: Statistical analysis, Data preprocessing
+* Prohect: 연관 저작물 검색과 저작권 침해 예방을 위한 예측 탐지 기술 개발 주관기관: 문화체육관광부(문화체육관광부, 2017.11.01-2018.01.31)
+  * Role: audio feature extraction(Timbre), Matlab m-script convert to C
+<br/>
 
-
+# My Skill and Tools
+* C / Python / Matlab / Simulink / Targetlink / SPSS / Adobe creative cloud / SCANeR Studio / C++(beginner) / OrCAD(beginner) / SketchUp (beginner)
 
 <br/>
 
@@ -48,11 +54,11 @@ title: My Career
 
 
 # EXPERIENCE
-* Participated in the Intelligent model car Competition, 2018 - 2019
-* mentoring of Advanced programming class, 2019 Spring semester
-* Assistant of Application programming class, 2018 Fall Semester
-* Academic Club “JANUS” Activity, 2017 - 2019
-* Media Laboratory, 2017 -2019
+* Participated in the Intelligent model car Competition hosted by Hanyang University, 2018 - 2019
+* mentoring of Advanced programming class at GWNU, 2019 Spring semester
+* Assistant of Application programming class at GWNU, 2018 Fall Semester
+* Academic Club “JANUS” Activity at GWNU, 2017 - 2019
+* Media Laboratory at GWNU, 2017 -2019
 
 # Honor and Award
 * Participated in IEIE IT Creative challenge Competition, 2nd place, 2019
