@@ -15,7 +15,7 @@ navbar-links:
   Career: "career"
 #  Project: "project"
   Like it : "Like-it"
- # Study = "Study M-and-S"
+   Study : "Study M-and-S"
  # <!-- Blog: "blog" -->
  # <!-- Publication: "publication" -->
   GitHub: "https://github.com/kw0ny"
