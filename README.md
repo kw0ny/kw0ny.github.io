@@ -7,7 +7,7 @@ Thank you for Seokho-Son
 
 
 ### 사사
-이 저장소는 https://github.com/seokho-son 포크함 
+https://github.com/seokho-son 
 
 ## Guidance
 https://www.youtube.com/watch?v=UgPZXxL2jSw
